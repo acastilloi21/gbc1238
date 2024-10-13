@@ -18,6 +18,8 @@ Original        1234567890-=
   12.  \+ plus
   13.  | pipe works on regex for multiple queries at once!
 # Links
+  * [CLI commands local page](docs/cli.md)
+  * [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax#html)<br><br>
   * [exclamation mark](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   * [circonflexe](https://www.lawlessfrench.com/pronunciation/circumflex/)
   * [ampersand](https://en.wikipedia.org/wiki/Ampersand)
