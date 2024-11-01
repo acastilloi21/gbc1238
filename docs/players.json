@@ -1,44 +1,46 @@
 {
   "players": [
     {
-      "name": "LeBrown James",
-      "sport": "Basketball",
+      "name": "LeBrown James", // String
+      "sport": "Basketball", // String
       "team": {
-        "name": "Lakers",
-        "city": "Los Angeles",
-        "position": "Forward"
+        "name": "Lakers", // String
+        "city": "Los Angeles", // String
+        "position": "Forward" // String
       },
-      "age": "38"
+      "age": "38" // Integer
+
     },
     {
-      "name": "Lionel Messi",
-      "sport": "Soccer",
+      "name": "Lionel Messi", // String
+      "sport": "Soccer", // String
       "team": {
-        "city": "Inter Miami",
-        "name": "Miami",
-        "position": "Forward"
+        "city": "Inter Miami", // String
+        "name": "Miami", // String
+        "position": "Forward" // String
       },
-      "age": "36"
+      "age": "36" // Integer
     },
     {
-      "name": "Serena Williams",
-      "sport": "Tennis",
+      "name": "Serena Williams", // String
+      "sport": "Tennis", // String
       "team": {
-        "city": "N/A",
-        "name": "N/A",
-        "position": "Forward"
+        "city": null, // Null
+        "name": null, // Null
+        "position": "Forward" // String
       },
-      "age": "41"
+      "age": "41" // Integer
+
     },
     {
-      "name": "Tom Brady",
-      "sport": "Football",
+      "name": "Tom Brady", // String
+      "sport": "Football", // String
       "team": {
-        "name": "Buccaneers",
-        "city": "Tampa Bay",
-        "position": "Quarterback"
+        "name": "Buccaneers", // String
+        "city": "Tampa Bay", // String
+        "position": "Quarterback" // String
       },
-      "age": "46"
+      "age": "46" // Integer
     }
   ]
 }
