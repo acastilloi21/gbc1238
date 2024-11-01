@@ -1,30 +1,30 @@
 ---
 players:
-- name: LeBrown James
-  sport: Basketball
+- name: LeBrown James # String
+  sport: Basketball # String
   team:
-    name: Lakers
-    city: Los Angeles
-    position: Forward
-  age: '38'
-- name: Lionel Messi
-  sport: Soccer
+    name: Lakers # String
+    city: Los Angeles # String
+    position: Forward # String
+  age: '38' # Integer
+- name: Lionel Messi # String
+  sport: Soccer # String
   team:
-    city: Inter Miami
-    name: Miami
-    position: Forward
-  age: '36'
-- name: Serena Williams
-  sport: Tennis
+    city: Inter Miami # String
+    name: Miami # String
+    position: Forward # String
+  age: '36' # Integer
+- name: Serena Williams # String
+  sport: Tennis # String
   team:
-    city: N/A
-    name: N/A
-    position: Forward
-  age: '41'
-- name: Tom Brady
-  sport: Football
+    city: N/A # Null
+    name: N/A # Null
+    position: Forward # String
+  age: '41' # Integer
+- name: Tom Brady # String
+  sport: Football # String
   team:
-    name: Buccaneers
-    city: Tampa Bay
-    position: Quarterback
-  age: '46'
+    name: Buccaneers # String
+    city: Tampa Bay # String
+    position: Quarterback # String
+  age: '46' # Integer
